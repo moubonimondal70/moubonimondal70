@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi 👋 I'm Mouboni Mondal
+
+🎓 CSE Student  
+📊 Interested in Data Science  
+
+
 
 <!--
 **moubonimondal70/moubonimondal70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
