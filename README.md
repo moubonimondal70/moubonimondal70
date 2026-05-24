@@ -3,6 +3,8 @@
 🎓 CSE Student  
 📊 Interested in Data Science  
 
+Python | SQL | Data Analysis
+
 
 
 <!--
